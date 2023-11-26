@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.App {
+   width: auto;
+  
+  height: auto;
+  top: -1997px;
+  left: -107px;
+  background-color: black;
+  }
+
+  .section{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .image{
+    position: relative;
+    width: 40vw;
+  height: 100vh;
+  }
+
+  .Details{
+    margin-top: 0px;
+    margin-right: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+.discover{
+   position: absolute;
+   bottom: 80px;
+   font-family: Roboto;
+font-size: 45px;
+width: 550px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0.02em;
+margin-left: 30px;
+color: rgba(255, 255, 255, 1);
+
+  }
+  
+.desc1{
+    width: 418px;
+    margin-top: 20px;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #7C7C7C;
+}
+span{
+    color:#72DB73;
+}
+.desc2{
+    width: 418px;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 450;
+line-height: 20px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.title3{
+    font-family: Single Day;
+font-size:47px;
+font-weight: 300;
+line-height: 94px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(114, 219, 115, 1);
+
+}
+
+.title2{
+    font-family: DM Sans;
+    margin-bottom: 20px;
+font-size: 15px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+}
